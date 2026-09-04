@@ -1,4 +1,4 @@
-# MUHAMMAD NEAMATULLAH RAHAT
+# Hi, I'm MUHAMMAD NEAMATULLAH RAHAT
 
 <p align="center">
   <img src="assets/dark.svg#gh-dark-mode-only" alt="Muhammad Neamatullah Rahat — GitHub profile" width="100%">
