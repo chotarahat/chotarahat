@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/dark.svg#gh-dark-mode-only" alt="Muhammad Neamatullah Rahat — GitHub profile" width="100%">
-  <img src="assets/light.svg#gh-light-mode-only" alt="Muhammad Neamatullah Rahat — GitHub profile" width="100%">
-</p>
-
 <div align="center">
 
 # Hi, I'm Muhammad Neamatullah Rahat 👋
