@@ -5,11 +5,7 @@
 
 ## About Me
 
-I'm **Muhammad Neamatullah Rahat**, a BRAC University student who enjoys learning by building things.
-
-> **Currently Debugging**
-
-I'm currently focused on strengthening my programming fundamentals and moving step-by-step toward **Deep Learning and Computer Vision**.
+I'm **Muhammad Neamatullah Rahat**, a BRAC University student who enjoys learning by building things. Currently I'm focused on strengthening my programming fundamentals and moving step-by-step toward **Deep Learning and Computer Vision**.
 
 ### Current Focus
 - Python and problem-solving fundamentals
