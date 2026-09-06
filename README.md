@@ -1,42 +1,36 @@
 <div align="center">
 
-# Hi, I'm Muhammad Neamatullah Rahat 👋
+# Hi, I'm Muhammad Neamatullah Rahat
 
 ### Learning | Building | Debugging | Repeating
 
 *Not an expert. Just stubborn enough to keep going.*
 
----
-
-### 🐍 My GitHub Contributions as Snake Game!
-
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 
 <div align="left">
 
 I'm a Computer Science and Engineering undergraduate at **BRAC University**, specializing in **Computer Vision and Medical AI Engineering** — mainly applying deep learning to medical imaging.
 
-- 🔬 Currently doing research under **Prof. Md. Golam Rabiul Alam**
+- Currently doing research under **Prof. Md. Golam Rabiul Alam**
 focused on medical image processing, working toward a first publication (targeting venues like IEEE EMBC, ISBI, or MDPI journals)
-- 🧠 Self-studying applied deep learning end-to-end — from neural       networks built from scratch, through CNNs and Vision Transformers, to MONAI and medical imaging formats (DICOM, NIfTI)
-- 🛠️ Working with **PyTorch, MONAI, FastAPI, and Docker**, on datasets like BraTS, ISIC, and NIH Chest X-ray
-- 🎓 Building toward a fully funded European Master's — Erasmus Mundus, DAAD, and similar programs
+- Self-studying applied deep learning end-to-end — from neural       networks built from scratch, through CNNs and Vision Transformers, to MONAI and medical imaging formats (DICOM, NIfTI)
+- Working with **PyTorch, MONAI, FastAPI, and Docker**, on datasets like BraTS, ISIC, and NIH Chest X-ray
+- Building toward a fully funded European Master's — Erasmus Mundus, DAAD, and similar programs
 
-- ⚽ Outside of code: football and fitness
+- Outside of code: football and fitness
 
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -106,7 +100,7 @@ A lightweight university transport management system designed to simplify univer
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=chotarahat&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=chotarahat&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chotarahat&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -127,7 +121,7 @@ A lightweight university transport management system designed to simplify univer
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <div align="center">
 
